@@ -31,7 +31,7 @@ const options = {
   ]
 };
 
-// Enulate code logic within webpack.js
+// Emulate code logic within webpack.js
 const compiler = new Compiler();
 
 for (const plugin of options.plugins) {
